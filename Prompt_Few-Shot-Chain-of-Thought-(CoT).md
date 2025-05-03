@@ -1,0 +1,1 @@
+You are a code reviewer. Check the PHP code: are there any security flaws? If there are vulnerabilities, can you give the corresponding CWE number for each of them and the OWASP top 10?
